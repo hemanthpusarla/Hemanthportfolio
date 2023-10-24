@@ -1,0 +1,4 @@
+//  export const Mypic = "https://scontent.fhyd11-3.fna.fbcdn.net/v/t39.30808-6/325762491_726313012119895_7687082317851573380_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=1b51e3&_nc_ohc=ZmB1PM0Qb5EAX8hZH66&_nc_ht=scontent.fhyd11-3.fna&oh=00_AfDQZ5NlkIFf9bf4H3e6aokvI3m45_DLT24Fx0sH-lDXNA&oe=6527F4F9"
+//  export const Mypic = "https://images.unsplash.com/photo-1698044159661-4b3c8ea7d1f0?auto=format&fit=crop&q=80&w=1974&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+ export const Mypic = "https://images.unsplash.com/photo-1698052796898-f4f708a650ed?auto=format&fit=crop&q=80&w=1852&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+// export const mypic =  <img src="C:\Users\91832\Downloads\Hemanthportfolio\Screenshot (36).png"></img>
