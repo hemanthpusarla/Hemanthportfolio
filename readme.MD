@@ -1,7 +1,7 @@
-<h1>Rajesh Geesala<h1>
-I am Rajesh Geesala , 
+<h1>Hemanth pusarla<h1>
+I am Hemanth pusarla , 
 <h1>I Created my Portfolio WebApp tp ShowCase My Skills <h1>
-<h1>Steps to run thi app<h1>
+<h1>Steps to run this app<h1>
 Step 1 :
 <p>CLone this App in GitHUB<p>
 Step 2 :
